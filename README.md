@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Burak 
 🔭 I’m currently working on My own company 
-# Skills: C# / REACT / JS / HTML / CSS
+## Skills and Experience
+* :computer: C# / HTML 
+* :atom_symbol: REACT 
+* :iphone: JS 
+
 
 ![snake gif](https://github.com/Burakzgen/Burakzgen/blob/output/github-contribution-grid-snake.svg)
 
