@@ -1,12 +1,5 @@
 # Hi there 👋, I'm Burak 
 🔭 I’m currently working on My own company 
-## Skills and Experience
-* :computer: C# / HTML 
-* :atom_symbol: REACT 
-* :iphone: JS 
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burakzgen&show_icons=true&theme=radical&)
 
