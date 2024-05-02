@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game Developer</h3>
 <p align = center><ul><li>🎮 My interest in technology began in my childhood years. The idea of developing games while playing sparked, leading me to decide on game development professionally. I have been passionately developing games since my childhood. Using various software tools like Unity, Adobe applications, and Blender, I continually enhance my skills 🛠️. I love making games and am always eager to advance my knowledge in the tech field. 🚀</li></ul></p>
 
-- 🌱 I am currently working on **Unity 3D** and **XR** and
+- 🌱 I am currently working on **Unity 3D** and **XR** 
 
 - 📝 Articles I wrote [https://medium.com/burakzgen](https://medium.com/@burakzgen)
 
