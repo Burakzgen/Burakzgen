@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤸🏻‍♀️, I'm Burak</h1>
+<h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate Game Developer</h3>
 <p align = center><ul><li>🎮 My interest in technology began in my childhood years. The idea of developing games while playing sparked, leading me to decide on game development professionally. I have been passionately developing games since my childhood. Using various software tools like Unity, Adobe applications, and Blender, I continually enhance my skills 🛠️. I love making games and am always eager to advance my knowledge in the tech field. 🚀</li></ul></p>
 
